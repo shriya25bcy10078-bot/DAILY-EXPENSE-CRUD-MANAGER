@@ -15,4 +15,14 @@ Young Corporate Employees can manage there monthly salaries, rents, utilities an
 Individual Household People can track there groceries, manage multiple financial responsibilities and build emergency funds.
 
 HIGH-LEVEL FEATURES :-
+My Project contains several features.
+1. Adds expense - Creates new expense records with amount, category, description and optional tags.
+2. View Expense - Display expenses in sortable list with key columns.
+3. Update Expense - Edit existing expense entries and persist changes.
+4. Delete Expense - Remove single or multiple expense records with confirmation and optional undo.
+5. Search & Filter - Filter by date range, category, tags, amount range, and keyword search in descriptions.
+6. Monthly Summary & Reports - Generate monthly/period summaries with totals, category breakdowns, and averages.
+7. Import / Export - Import and export data as CSV; export summary reports as CSV or PDF.
+8. Budgeting & Alerts - Set budgets per category and send alerts/warnings when nearing or exceeding budgets.
 
+These features are intentionally high-level; each can be broken down into specific user stories or tasks during implementation.
