@@ -6,4 +6,13 @@ My project builds a basic expense tracking system, through which user can catego
 Categories : 1. Needs and 2. Wants
 
 SCOPE OF PROJECT :- 
-This project is single user-friendly application. It takes several input 
+This project is single user-friendly application. It takes several input from user. Inputs include name, amount, category and subcategory.
+
+TARGET USER :-
+This application can be used by all age group people to maintain record of there daily expenses. Primary target users are students and young corporate employees. And secondary target user can be single household people.
+Students and young adults can track pocket money, monitoring spending on food, transportation and entertainment. 
+Young Corporate Employees can manage there monthly salaries, rents, utilities and other essential daily expense.
+Individual Household People can track there groceries, manage multiple financial responsibilities and build emergency funds.
+
+HIGH-LEVEL FEATURES :-
+
