@@ -7,17 +7,17 @@ To add files in in project :- "git add ." command is used. It add all the files 
 
 To commit files following commands are used :-
 1. git commit -m "expense_tracker.py"
-   git commit -m "Update expense_tracker.py"
-2. git commit -m "expense.py"
-   git commit -m "Update expense.py"
-3. git commit -m "expense.csv"
-   git commit -m "Update expense.csv"
-4. git commit -m "README.md"
-   git commit -m "Update README.md"
-5. git commit -m "statement.md"
-   git commit -m "Update statement.md"
-6. git commit -m "Comprehensive_Commit_History.md"
-   git commit -m "Update Comprehensive_Commit_History.md"
+2. git commit -m "Update expense_tracker.py"
+3. git commit -m "expense.py"
+4. git commit -m "Update expense.py"
+5. git commit -m "expense.csv"
+6. git commit -m "Update expense.csv"
+7. git commit -m "README.md"
+8. git commit -m "Update README.md"
+9. git commit -m "statement.md"
+10. git commit -m "Update statement.md"
+11. git commit -m "Comprehensive_Commit_History.md"
+12. git commit -m "Update Comprehensive_Commit_History.md"
 
 To push files into github repository, following command is used :-
 git push origin main
