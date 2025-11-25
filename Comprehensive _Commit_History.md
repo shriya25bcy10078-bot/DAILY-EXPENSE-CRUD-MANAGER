@@ -22,3 +22,4 @@ To commit files following commands are used :-
 To push files into github repository, following command is used :-
 git push origin main
 
+<img width="915" height="530" alt="image" src="https://github.com/user-attachments/assets/dac62cc9-b2a5-4391-9130-b0b45be6dc37" />
