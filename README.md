@@ -35,7 +35,7 @@ Installation :-
 4. Add required git commands to add and push files into repository
 5. Run the application
 
-<img width="638" height="277" alt="image" src="https://github.com/user-attachments/assets/b830874a-5e1e-417c-b372-4c9dde5eb0ef" />
+<img width="915" height="530" alt="Screenshot 2025-11-26 013121" src="https://github.com/user-attachments/assets/c84df190-2e22-42e4-ae3d-44bdd8f44ec9" />
 
 
 Project Structure :-
