@@ -1,7 +1,8 @@
 # DAILY-EXPENSE-CRUD-MANAGER
 
 Description :-
-Daily Expense CRUD Manager is a simple and efficient Python Project which helps individuals track there daily finance. The CRUD functionality i.e. Create, Read, Update and Delete, makes it easier to manage spending habits, maintain records and gain better financial awareness.
+Daily Expense CRUD Manager is a simple and efficient Python Project which helps individuals track there daily finance. 
+The CRUD functionality i.e. Create, Read, Update and Delete, makes it easier to manage spending habits, maintain records and gain better financial awareness.
 
 Features :-
 My project contains 2 python files named :- 1. expense and 2. expense_tracker
@@ -30,17 +31,21 @@ Tools Used :-
 Installation :-
 1. Install Virtual Studio Code and Git
 2. Clone the Github Repository using git clone
-3. Run the application
+3. Add README.md and statement.md
+4. Add required git commands to add and push files into repository
+5. Run the application
 
 Project Structure :-
 
 Daily-Expense-CRUD-Manager
 | ---README.md
+| ---statement.md
 | ---expense.py
 | ---expense_tracker.py
      | ---importing Expense from expense
      | ---importing calender
      | ---importing datetime from datetime
+| ---Comprehensive_Commit_History
 
 Instructions for testing :-
 1. Open the application
@@ -50,4 +55,5 @@ Instructions for testing :-
    3. Category of expense
    4. Subcategory of expense
 3. View Expense List
-4. Edit or Delete entries as required
+4. View total spending and remaining budget
+5. Edit or Delete entries as required
