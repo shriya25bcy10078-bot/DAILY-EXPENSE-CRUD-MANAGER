@@ -35,6 +35,9 @@ Installation :-
 4. Add required git commands to add and push files into repository
 5. Run the application
 
+<img width="638" height="277" alt="image" src="https://github.com/user-attachments/assets/b830874a-5e1e-417c-b372-4c9dde5eb0ef" />
+
+
 Project Structure :-
 
 Daily-Expense-CRUD-Manager
@@ -47,6 +50,9 @@ Daily-Expense-CRUD-Manager
      | ---importing datetime from datetime
 | ---Comprehensive_Commit_History
 
+<img width="638" height="277" alt="image" src="https://github.com/user-attachments/assets/0b6acfc2-2317-4e8d-962e-f266142df320" />
+
+
 Instructions for testing :-
 1. Open the application
 2. Add expenses by entering
@@ -57,3 +63,6 @@ Instructions for testing :-
 3. View Expense List
 4. View total spending and remaining budget
 5. Edit or Delete entries as required
+
+
+
